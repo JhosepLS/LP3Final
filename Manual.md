@@ -4,9 +4,6 @@
 
 # LP3Final
 
-
-
-
 ## Integrantes
 
 - [@xPorotin9 'José C. Machaca'](https://github.com/xPorotin9)
@@ -59,6 +56,7 @@
 - Implementacion de niveles de dificultad.
 - Asignación de teclas personalisables.
 - Asignación de teclas para aumentar o reducir la velocidad de caída
+  
 [![Prosor](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.youtube.com/watch?v=jHMGhbj0kbg)
 
 
