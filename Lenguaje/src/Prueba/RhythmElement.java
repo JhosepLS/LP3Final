@@ -22,7 +22,8 @@ public class RhythmElement extends Rectangle {
     private Color drawColour;
 
     private static final int[] X_POSITIONS = {100, 200, 300, 400};
-
+    
+    //Llama al constructor de Rectangle
     public RhythmElement(Position position, Random rand) {
         super(new Position(X_POSITIONS[rand.nextInt(X_POSITIONS.length)], position.y), SIZE, SIZE);
         int charChoice = rand.nextInt(VALID_CHARACTERS.length);
@@ -31,7 +32,7 @@ public class RhythmElement extends Rectangle {
         characterStr = String.valueOf(character);
         this.position.x = X_POSITIONS[charChoice];
     }
-
+    //Realiza la bajada de elementos
     public void update(int fallAmount) {
         position.y += fallAmount;
     }
@@ -51,6 +52,7 @@ public class RhythmElement extends Rectangle {
         return false;
     }
 
+    //Dibuja los elementos en pantalla
     public void paint(Graphics g) {
         g.setColor(drawColour);
         g.fillOval(position.x, position.y, width, height);
