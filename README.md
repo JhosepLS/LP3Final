@@ -11,7 +11,7 @@
 
 ## Link de video de ejecución
 [![LINK](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://drive.google.com/file/d/1V3P2vszxKx5Vu7Byg283LRv4onm06zeo/view](https://drive.google.com/file/d/1UzdllJPCYDI4G5wq3qphhRX3cdXAcZQo/view?usp=sharing
-))
+)
 
 ## Manual de Instalación 
 ### Link de descarga
