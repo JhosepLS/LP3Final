@@ -10,7 +10,8 @@
 - [@JhosepLS 'Jhosep A. Mollapaza'](https://github.com/JhosepLS)
 
 ## Manual de Instalación 
-
+### Link de descarga
+[![LINK](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1V3P2vszxKx5Vu7Byg283LRv4onm06zeo/view)
 ### Introducción
 ##### Bienvenidos al intento de replica del juego GUITAR HERO. Este juego de ritmo chevere y emocionante te permitirá poner a prueba tus habilidades de sincronización y reacción. A medida que las notas descienden por la pantalla, tu chambita sera presionar las teclas correctas en el momento adecuado para acumular puntos y realizar la mejor puntuación posible.
 
