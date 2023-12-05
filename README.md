@@ -21,7 +21,7 @@
 #### Tarjeta gráfica: AMD Radeon RX 5700 8GB / NVIDIA GeForce RTX 4080TI 16GB
 #### Disco duro: 100 GB de espacio disponible
 #### Sistema operativo: Uwuntu / Linux
-#### Tarjeta gráfica compatible con DirectX 12
+#### Versión JDK 20.0.2
 
 ### Reglas del Juego
 #### 1. Controles
