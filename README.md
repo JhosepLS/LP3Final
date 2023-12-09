@@ -54,7 +54,7 @@
 ##### - No te desanimes si eres bajo; cada intento es una oportunidad de mejora.
 ##### - Usa las manos
     
-## Posibles implementaciones
+## Futuras posibles implementaciones
 
 - Creacion de niveles con Mapeo hecho. 
 - Implementacion de niveles de dificultad.
